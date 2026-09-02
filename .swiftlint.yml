@@ -1,0 +1,17 @@
+only_rules:
+  - force_cast
+  - force_try
+  - trailing_whitespace
+  - vertical_whitespace
+  - opening_brace
+  - closing_brace
+  - return_arrow_whitespace
+  - colon
+  - comma
+  - empty_count
+  - unused_optional_binding
+  - redundant_discardable_let
+  - duplicate_imports
+included:
+  - ReSize
+  - Tests
